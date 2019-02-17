@@ -1,26 +1,25 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sean Gelb
+    tagline: Knowledge seeker
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: smgelb@iu.edu
+    phone: 585 406 6200
+    website: 
+    linkedin: seangelb
+    github: lawleyenda
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@lawleyenda'
+    stack-overflow: 6732684/lawleyenda
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -28,173 +27,91 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Skiing
         link:
 
-      - item: Snowboarding
+      - item: Fishing
         link:
 
-      - item: Cooking
+      - item: Listening to music
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+      I am passionate about incorporating my love for technology and numbers
+      to create a more adaptable, efficient, and ethical business environment. 
+      My experience in accounting and information systems like computer
+      programming and Microsoft applications help make me adaptable and insightful.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Information Systems & Accounting
+      university: Indiana University, Kelley School of Business
+      time: August 2017 - May 2020
+      
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+          - Hutton Honors College
+          - Hudson & Holland Scholar
+          - 2018 Founder’s Scholar  
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Administrative Assistant                                 
+      time: June 2012 - Present
+      company: Jay R. Gelb & Company
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    
+          - Documented business records that helped put ideas into actions
+          - Improved record-keeping with Microsoft programs that helped lead to better organization
+          - Balanced the marketing budget that allowed the company's message to reach a greater audience
+          - Reconciled bank statements and recorded entries in QuickBooks that helped keep the company's books up-to-date 
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Banking Analyst Intern
+      time: June 2017 – August 2017
+      company: Savannah Bank Na
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+          - Analyzed municipal bonds for sale by presenting research that predicted future growth and returns
+          - Collaborated with team members to generate profitable investment ideas; prepared and presented these ideas to an investment committee 
+          - Monitored and managed a bond portfolio to ensure the correct risk appropriation 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    intro: 
+      Most of these projects are from my Github respository. These projects help demostrate my knowledge in internet technology
+     by involving programming, database relations, and networking and hosting. 
+     
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Gelysium.com
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A social media website that has features like account creation and email confirmation, friending, posting, and liking."
 
-      - title: Tempo
+      - title: Microreddit
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Involves modeling relationships by interaction between the user, posts, and comments. "
 
-      - title: Atom
+      - title: Etch-a-sketch
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A basic etch-a-sketch like web program. Involved Javascript, html, and css."
 
-      - title: Delta
+      - title: Chess
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Programmed chess via command line with Ruby"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+    toolset:  
+      - name: Microsoft Applications
         level: 95%
-
-      - name: Ruby on Rails
+        
+      - name: HTML5 & CSS
+        level: 90% 
+        
+      - name: Tax Accounting 
+        level: 90%  
+        
+      - name: Ruby & Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
+      - name: Financial Analysis
+        level: 80%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
