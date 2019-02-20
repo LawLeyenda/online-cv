@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Sean G's Resume
+title: Sean Gelb's Resume
 url: 'http://seangelb.com'
 baseurl: '' #changwebjeda.come it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
